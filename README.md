@@ -14,3 +14,5 @@ Aby odpalić projekt należy co nastepuje:
 
 
 Pytania, groźby, sugestie należy przesyłać na http://facebook.com/avrland lub marcinpopko@outlook.com
+
+<img src="https://github.com/avrland/ESP8266_DS18B20_Thingspeak/blob/master/esp.jpg"/>
