@@ -34,7 +34,7 @@ void setup() {
   Serial.println();
   Serial.print("Lacze do ");
   Serial.println(ssid);
- 
+  WiFi.mode(WIFI_STA); //we don't want to broadcast SSID so we put ESP8266 to standalone mode
   WiFi.begin(ssid, password);
   
   while (WiFi.status() != WL_CONNECTED) {
